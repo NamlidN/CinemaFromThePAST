@@ -1,0 +1,27 @@
+
+main{
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+
+}
+span{
+
+  height: 10rem;
+  width: 10rem;
+  border-radius: 10000rem;
+}
+.asdf{
+  width: 100vw;
+  text-align: center;
+}
+button{
+  margin: 7rem;
+  margin-top: 1rem;
+  width: 20rem;
+  font-size: 35pt;
+  border-radius: 0.6rem;
+}

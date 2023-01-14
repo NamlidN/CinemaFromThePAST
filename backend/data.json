@@ -1,0 +1,146 @@
+[
+  {
+    "platz": 1,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 50
+  },
+  {
+    "platz": 2,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 150
+  },
+  {
+    "platz": 3,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 250
+  },
+  {
+    "platz": 4,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 350
+  },
+  {
+    "platz": 5,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 450
+  },
+  {
+    "platz": 6,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 550
+  },
+  {
+    "platz": 7,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 50
+  },
+  {
+    "platz": 8,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 150
+  },
+  {
+    "platz": 9,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 250
+  },
+  {
+    "platz": 10,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 350
+  },
+  {
+    "platz": 11,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 450
+  },
+  {
+    "platz": 12,
+    "reserviert": false,
+    "art": "Loge",
+    "position": 550
+  },
+  {
+    "platz": 13,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 50
+  },
+  {
+    "platz": 14,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 150
+  },
+  {
+    "platz": 15,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 250
+  },
+  {
+    "platz": 16,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 350
+  },
+  {
+    "platz": 17,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 450
+  },
+  {
+    "platz": 18,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 550
+  },
+  {
+    "platz": 19,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 50
+  },
+  {
+    "platz": 20,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 150
+  },
+  {
+    "platz": 21,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 250
+  },
+  {
+    "platz": 22,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 350
+  },
+  {
+    "platz": 23,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 450
+  },
+  {
+    "platz": 24,
+    "reserviert": false,
+    "art": "Parkett",
+    "position": 550
+  }
+]
